@@ -1,0 +1,9 @@
+{
+  "name": "buster-minimal",
+  "version": "0.0.0",
+  "dependencies": {
+    "buster-assertions": "~0.10.3",
+    "buster-sinon": "~0.6.0",
+    "buster-test": "~0.6.1"
+  }
+}
